@@ -1,0 +1,14 @@
+$ python agent.py --gsc sample_data/gsc.csv --ga4 sample_data/ga4.csv --output output
+FlyRank Opportunity Scout completed successfully
+Pages analyzed: 5
+1. /blog/magnesium-types — 81.5/100 — Rewrite title/meta and test intent alignment
+2. /sleep/magnesium-bath — 77.3/100 — Rewrite title/meta and test intent alignment
+3. /recovery/sore-muscles — 77.3/100 — Rewrite title/meta and test intent alignment
+4. /stress/relief — 59.4/100 — Monitor and preserve performance
+5. /products/magnesium-soak — 56.6/100 — Monitor and preserve performance
+Outputs written to: ./output
+
+Run notes:
+- The demonstration uses synthetic schema-compatible data.
+- The full request-to-result loop completes without hand-editing during the run.
+- The agent reads two files, validates their schemas, joins on landing page, scores opportunities, and writes two output files.
