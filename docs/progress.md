@@ -9,7 +9,7 @@
 | 5 | FL-06 — Design Your Personal Agent | Completed |
 | 5 | FL-07 — Build and Run Your Agent | Working prototype complete; screen recording pending |
 | 5 | PF-04 — Personal Website Live | Public site and DNS walkthrough documented; accepted free-host URL and profile/CV updates pending |
-
+| Capstone | FlyRank Opportunity Intelligence Studio | Application deployed and live (https://flyrank.abud.fun); source documented; demo video pending |
 ## UI/UX Design
 
 Weeks 1–4 are documented in Notion and Figma. Items requiring real external evidence—such as interviews, peer review, and Loom recordings—remain explicitly marked rather than fabricated.

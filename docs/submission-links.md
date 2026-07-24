@@ -12,6 +12,12 @@
 - PF-04 — Personal Website (Notion): https://app.notion.com/p/3a547bf43cf38134bb4dfae34b6381f1
 - Public portfolio: https://abud.fun
 
+### Capstone
+- Notion documentation: https://app.notion.com/p/3a747bf43cf3812dbf83e9a6f614eabf
+- Live application: https://flyrank.abud.fun
+- Source code: https://github.com/3bud-ZC/flyrank-ai-training/tree/main/general-ai-fluency/capstone/flyrank-opportunity-studio
+- Demo video: (Pending)
+
 ## UI/UX Design
 
 The UI/UX assignments are documented in Notion and visualized in the public SoloFlow AI Figma file.

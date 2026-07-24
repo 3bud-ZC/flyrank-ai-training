@@ -13,6 +13,24 @@ A structured public repository for Abdullah Ragab's FlyRank AI internship assign
 
 Research, personas, journey maps, information architecture, user flows, wireframes, iteration logs, and handoff documentation are documented in Notion and Figma.
 
+## Capstone Project
+
+### FlyRank Opportunity Intelligence Studio
+
+A complete, professional, publicly accessible capstone web application that converts approved Google Search Console and Google Analytics 4 CSV exports into a transparent, prioritized content-opportunity report. 
+
+**Live URL**: [https://flyrank.abud.fun](https://flyrank.abud.fun)  
+**Source Code**: [general-ai-fluency/capstone/flyrank-opportunity-studio](general-ai-fluency/capstone/flyrank-opportunity-studio)
+
+#### Features
+- **Data input workflow**: Drag-and-drop CSV file uploads, Demo Data loading, and data validation (required columns, empty/malformed handling).
+- **Analysis engine**: Joins GSC and GA4 at the landing-page level, processes blank GSC queries as anonymized demand signals, calculates transparent opportunity scores, and ranks pages by priority.
+- **Dashboard & Explanations**: Summary metrics, data-quality warnings, ranked opportunity table, and detailed explainability sections for each score.
+- **Report Formats**: Working downloads for JSON report, Markdown brief, and CSV opportunity table.
+- **Privacy-First Behavior**: Fully client-side operation via browser. No database, no data transmission, and no data persistence. 
+- **Synthetic Data Statement**: The public application uses and accepts only synthetic demonstration data.
+- **Technology Stack**: Next.js, TypeScript, Tailwind CSS, Papa Parse.
+
 ## Featured Prototype
 
 ### FlyRank Opportunity Scout
@@ -25,6 +43,8 @@ A local-first Python agent that reads approved Google Search Console and GA4 exp
 
 ```text
 general-ai-fluency/
+  capstone/
+    flyrank-opportunity-studio/
   week-04/
     empty-but-live/
   week-05/
@@ -40,7 +60,7 @@ docs/
 
 ## Confidentiality
 
-This repository contains only public documentation and synthetic demonstration data. No confidential FlyRank or Flewd client data is committed.
+This repository contains only public documentation and synthetic demonstration data. No confidential FlyRank or Flewd client data is committed. All demonstration data is strictly synthetic.
 
 ## Main Links
 
