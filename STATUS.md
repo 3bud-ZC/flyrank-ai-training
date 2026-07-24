@@ -29,7 +29,7 @@
 **14. Known limitation**:
 - Very large CSVs (1M+ rows) may cause browser memory limitations due to client-side Papa Parse.
 
-**15. Git commit SHA after push**: <PENDING_COMMIT_SHA>
+**15. Git commit SHA after push**: 25ce6d3
 
 **16. Final rollback command**:
 ```bash
